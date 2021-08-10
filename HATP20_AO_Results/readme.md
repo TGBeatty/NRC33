@@ -11,7 +11,9 @@ This is the folder for files relating to the Palomar AO imaging of HAT-P-20 in J
  
 **HAT-P-14B:**
 - Teff = 3475 +/- 200K
-- Rstar = 0.29 +/- 0.03 Rsun
+- Rstar = 0.29 +/- 0.03 Rsun  
+[SED plot](https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/SEDplot_HATP14_B.png)  
+[CoVar plot](https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/SED_Covar_HATP14_B.png)
  
 One thing I haven't done yet is deblended the existing transit depth measurements to get a more accurate value for Rp/Rs given the existence of -14B. Ignoring that deblending (which should be a few percent effect), I get the following for the planet:
 
