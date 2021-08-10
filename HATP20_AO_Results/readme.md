@@ -1,4 +1,4 @@
-This is the folder for files relating to the Palomar AO imaging of HAT-P-20 in JHK. [Ngo+2015 also imaged the system in H and Ks.]https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/Ngo2015.pdf) Note that Ngo+2015 gets an unphysical measurements of H-Ks, but does recover reasonable stellar parameters.
+This is the folder for files relating to the Palomar AO imaging of HAT-P-20 in JHK. [Ngo+2015 also imaged the system in H and Ks.](https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/Ngo2015.pdf) Note that Ngo+2015 gets an unphysical measurements of H-Ks, but does recover reasonable stellar parameters.
 
 # SED fitting results
 
