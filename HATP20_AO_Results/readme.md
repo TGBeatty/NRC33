@@ -1,9 +1,13 @@
 This is the folder for files relating to the Palomar AO imaging of HAT-P-20 in JHK.
 
+# SED fitting results
+
 **HAT-P-14A:**
 - Teff = 6610 +/- 100K
 - Rstar = 1.65 +/- 0.03 Rsun
 - Mstar = 1.60 +/- 0.18 Msun
+[SED plot](https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/SEDplot_HATP14_A.png)
+[CoVar plot](https://github.com/TGBeatty/NRC33/blob/main/HATP20_AO_Results/SED_Covar_HATP14_A.png)
  
 **HAT-P-14B:**
 - Teff = 3475 +/- 200K
